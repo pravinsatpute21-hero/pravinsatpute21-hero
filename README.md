@@ -97,14 +97,6 @@ Built an end-to-end ML pipeline on 7,032 records to predict customer churn.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Pravin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravinsatpute21-hero&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)
-
-</div>
-
 ---
 
 <div align="center">
